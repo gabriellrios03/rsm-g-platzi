@@ -1,0 +1,20 @@
+{
+  "name": "rsm-g-platzi",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellrios03/rsm-g-platzi.git"
+  },
+  "author": "Gabriel Rios <gabriellrios03@gmail.com>",
+  "license": "MIT",
+  "keywords": [],
+  "bin":{
+    "rsm-g-platzi": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
